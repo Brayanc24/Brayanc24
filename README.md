@@ -39,6 +39,34 @@ const yo = {
 - 🤝 Abierto a colaborar en proyectos interesantes
 - ⚡ Me interesa convertir retos de ingeniería en soluciones prácticas
 
+## ✦ Mi área en una mirada
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/01%20Mecatrónica-0b0f19?style=for-the-badge&logo=probot&logoColor=67e8f9" alt="Mecatrónica" />
+  <img src="https://img.shields.io/badge/02%20Automatización-0b0f19?style=for-the-badge&logo=siemens&logoColor=67e8f9" alt="Automatización" />
+  <img src="https://img.shields.io/badge/03%20Electrónica-0b0f19?style=for-the-badge&logo=raspberrypi&logoColor=a78bfa" alt="Electrónica" />
+  <img src="https://img.shields.io/badge/04%20Semiconductores-0b0f19?style=for-the-badge&logo=electron&logoColor=a78bfa" alt="Semiconductores" />
+
+</div>
+
+```mermaid
+flowchart LR
+    M[Mecánica] --> I[Integración]
+    E[Electrónica] --> I
+    S[Software] --> I
+    I --> A[Automatización]
+    I --> R[Robótica]
+    I --> C[Circuitos integrados]
+    style M fill:#0b1220,stroke:#67e8f9,color:#e0f2fe
+    style E fill:#0b1220,stroke:#67e8f9,color:#e0f2fe
+    style S fill:#0b1220,stroke:#a78bfa,color:#e0f2fe
+    style I fill:#172554,stroke:#a78bfa,color:#ffffff
+    style A fill:#111827,stroke:#67e8f9,color:#e0f2fe
+    style R fill:#111827,stroke:#67e8f9,color:#e0f2fe
+    style C fill:#111827,stroke:#a78bfa,color:#e0f2fe
+```
+
 ## ✦ Mis estadísticas
 
 <div align="center">
@@ -70,6 +98,15 @@ const yo = {
 
 **Idiomas:** Español · Inglés · Portugués
 
+<div align="center">
+
+  <img src="https://img.shields.io/badge/PLC%20%2F%20Ladder-111827?style=flat-square&logoColor=67e8f9" alt="PLC y Ladder" />
+  <img src="https://img.shields.io/badge/PCB%20%2F%20IC%20Design-111827?style=flat-square&logoColor=a78bfa" alt="Diseño PCB e IC" />
+  <img src="https://img.shields.io/badge/3D%20%2F%20CAD-111827?style=flat-square&logoColor=67e8f9" alt="Diseño 3D y CAD" />
+  <img src="https://img.shields.io/badge/Biorrobótica-111827?style=flat-square&logoColor=a78bfa" alt="Biorrobótica" />
+
+</div>
+
 ## ✦ Formación y áreas de interés
 
 <div align="center">
@@ -84,6 +121,55 @@ const yo = {
 - 🧪 Miembro del centro de investigación CITIC
 - 🏅 Formación complementaria en biorrobótica, máquinas eléctricas y automatización industrial
 - 🔬 Cursos de diseño y fabricación de circuitos integrados y dispositivos semiconductores en CIDESI México
+
+## ✦ Mis proyectos y repositorios
+
+<div align="center">
+
+  <a href="https://github.com/Brayanc24/tt-advanced-template-bidir">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brayanc24&repo=tt-advanced-template-bidir&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=67e8f9&text_color=cbd5e1&icon_color=a78bfa" alt="tt-advanced-template-bidir" />
+  </a>
+  <a href="https://github.com/Brayanc24/Brayanc24">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brayanc24&repo=Brayanc24&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=67e8f9&text_color=cbd5e1&icon_color=a78bfa" alt="Perfil de GitHub" />
+  </a>
+
+</div>
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <strong>⚙️ Diseño digital</strong><br />
+      Flip-flop bidireccional avanzado<br />
+      <img src="https://img.shields.io/badge/Verilog-111827?style=flat-square&logoColor=67e8f9" alt="Verilog" />
+    </td>
+    <td width="50%" align="center">
+      <strong>🧰 Perfil técnico</strong><br />
+      Ingeniería, automatización y electrónica<br />
+      <img src="https://img.shields.io/badge/GitHub%20Profile-111827?style=flat-square&logo=github&logoColor=a78bfa" alt="GitHub Profile" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+  <a href="https://github.com/Brayanc24?tab=repositories">
+    <img src="https://img.shields.io/badge/Ver%20todos%20mis%20repositorios-172554?style=for-the-badge&logo=github&logoColor=67e8f9" alt="Ver todos mis repositorios" />
+  </a>
+
+</div>
+
+## ✦ Cómo pienso un proyecto
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/01%20Investigar-0b0f19?style=for-the-badge&logo=readthedocs&logoColor=67e8f9" alt="Investigar" />
+  <img src="https://img.shields.io/badge/02%20Diseñar-0b0f19?style=for-the-badge&logo=autodesk&logoColor=67e8f9" alt="Diseñar" />
+  <img src="https://img.shields.io/badge/03%20Construir-0b0f19?style=for-the-badge&logo=arduino&logoColor=a78bfa" alt="Construir" />
+  <img src="https://img.shields.io/badge/04%20Validar-0b0f19?style=for-the-badge&logo=checkmarx&logoColor=a78bfa" alt="Validar" />
+
+</div>
+
+> Una buena solución conecta el mundo físico con el digital: sensores, control, código y una idea clara del problema.
 
 ## ✦ Mi actividad
 
