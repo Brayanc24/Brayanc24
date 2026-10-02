@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="banner.svg" alt="Banner de perfil" width="100%" />
+  <img src="banner-pro.png" alt="Banner profesional de mecatrónica y automatización" width="100%" />
 
   <br />
 
