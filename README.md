@@ -6,10 +6,20 @@
 
   <br />
 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=3200&pause=900&color=67E8F9&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=70&lines=Ingeniería+Mecatrónica+%7C+Automatización+%7C+Electrónica;Diseñando%2C+construyendo+y+validando+soluciones" alt="Animación de presentación" />
+  </a>
+
   <img src="https://komarev.com/ghpvc/?username=Brayanc24&label=visitas%20al%20perfil&color=7c3aed&style=flat-square" alt="Visitas al perfil" />
   <a href="https://github.com/Brayanc24?tab=followers">
     <img src="https://img.shields.io/github/followers/Brayanc24?label=seguidores&style=flat-square&color=2563eb" alt="Seguidores" />
   </a>
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Brayanc24&theme=onedark&no-bg=true&no-frame=true&row=1&column=6&margin-w=8" alt="Trofeos de GitHub" width="90%" />
 
 </div>
 
